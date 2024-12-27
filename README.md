@@ -4,7 +4,7 @@
 ## كيفية الاستخدام  
 1. قم باستنساخ المستودع:  
    ```bash
-   git clone https://github.com/yourusername/تعلم-الماتلاب-ببساطة-وبعمق.git
+   git clone https://github.com/asaci/Learn-MATLAB-Simply-and-Deeply.git
 
 2. قم بتشغيل السكربتات خطوة بخطوة لاستكشاف الأمثلة وفهم المفاهيم.
 السلسلة على اليوتيوب
